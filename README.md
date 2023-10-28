@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Internship hunting
 - 💬 Ask me about `Deep Learning`  ,`Machine Learning` and `Computer Vision` stuff
-- 📫 How to reach me: **[Twitter - Lomesh](https://twitter.com/lomesh_soni?t=8VGACAfaAPROv4ZmelqpYw&s=09)**
+- 📫 How to reach me: **[LinkedIn - Lomesh](https://www.linkedin.com/in/lomesh-soni/)**
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I dont like theory stuff 
 
