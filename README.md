@@ -1,10 +1,10 @@
 ## Hi there , I am Lomesh Soni👋
 
-- 🔭 I’m currently working on Object Detection 
-- 🌱 I’m currently exploring YOLO algorithm
+- 🔭 I’m currently persuing Mtech AI at IIIT Bangalore
+- 🌱 I’m currently exploring attention models
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Internship hunting
-- 💬 Ask me about `Deep Learning`  ,`Machine Learning` and `Computer Vision` stuff
+- 💬 Ask me about `Deep Learning`  and `Machine Learning` stuff
 - 📫 How to reach me: **[LinkedIn - Lomesh](https://www.linkedin.com/in/lomesh-soni/)**
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I dont like theory stuff 
